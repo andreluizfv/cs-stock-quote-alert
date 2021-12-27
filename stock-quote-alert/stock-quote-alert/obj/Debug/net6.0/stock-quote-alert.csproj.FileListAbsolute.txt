@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\stock-quote-alert.exe
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\stock-quote-alert.deps.json
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\stock-quote-alert.runtimeconfig.json
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\stock-quote-alert.dll
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\ref\stock-quote-alert.dll
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\bin\Debug\net6.0\stock-quote-alert.pdb
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.AssemblyInfo.cs
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.dll
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\ref\stock-quote-alert.dll
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.pdb
+C:\Users\andre\Documents\csharp\git-cs-stock-quote-alert\stock-quote-alert\stock-quote-alert\obj\Debug\net6.0\stock-quote-alert.genruntimeconfig.cache

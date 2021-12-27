@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c3cde01-8eef-4e09-90d1-8c70d07be4c2": {
+      "ProjectGuid": "8c3cde01-8eef-4e09-90d1-8c70d07be4c2",
+      "DisplayName": "stock-quote-alert",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

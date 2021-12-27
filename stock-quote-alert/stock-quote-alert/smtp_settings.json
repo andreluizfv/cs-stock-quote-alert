@@ -1,0 +1,8 @@
+﻿{
+    "SmtpServer": "smtp.gmail.com",
+    "SenderMail": "entregavelestagio@gmail.com",
+    "Password": "9876543212023",
+    "Port": 587,
+    "EnableSsl": true,
+    "UseDefaultCredentials": false
+}
